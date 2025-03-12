@@ -1,6 +1,8 @@
 #include <SPI.h>
 #include <MFRC522.h>
 #include <ESP8266HTTPClient.h>
+#include <ESP8266WiFi.h>
+#include <ArduinoJson.h>
 constexpr uint8_t RST_PIN = D3;
 constexpr uint8_t SS_PIN = D4;
 MFRC522 rfid(SS_PIN, RST_PIN);
@@ -11,6 +13,8 @@ void setup() {
   SPI.begin();
   rfid.PCD_Init();
 }
+
+  
 void loop() {
   if ( ! rfid.PICC_IsNewCardPresent())
     return;
