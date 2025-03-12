@@ -1,10 +1,11 @@
-# Ignore build output
+# Ignore build output directories
 bin/
 obj/
 
 # Ignore user-specific files
-.idea/
+.vs/
 .vscode/
+.idea/
 *.user
 *.suo
 *.userosscache
@@ -26,7 +27,6 @@ appsettings.Staging.json
 
 # Ignore test results
 testresults/
-.vs/
 
 # Ignore ASP.NET temporary files
 *.vspscc
@@ -39,15 +39,8 @@ node_modules/
 # Ignore package directories
 packages/
 
-# Ignore IDE files
-# JetBrains Rider
+# Ignore JetBrains Rider specific files
 .idea/
-
-# User-specific files
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
 
 # Ignore Visual Studio for Mac files
 .vscode/
@@ -59,5 +52,17 @@ Thumbs.db
 # Ignore coverage files
 coverage/
 
-# Ignore web server specific files
+# Ignore NuGet package files
+*.nupkg
+
+# Ignore JetBrains Rider and VSCode directories
+.idea/
 .vscode/
+
+# Ignore Visual Studio database files
+*.mdf
+*.ldf
+
+# Ignore temporary files
+*~.bak
+*~.swp
