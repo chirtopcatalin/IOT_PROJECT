@@ -1,0 +1,23 @@
+﻿@model IEnumerable<garbage_collection.Models.CollectionModel>
+
+<h2>Collections</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Bin ID</th>
+            <th>Collection Time</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Bin_id</td>
+                    <td>@item.Collection_time</td>
+                </tr>
+        }
+    </tbody>
+</table>
