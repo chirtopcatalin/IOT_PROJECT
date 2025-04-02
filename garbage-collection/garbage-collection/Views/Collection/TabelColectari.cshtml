@@ -1,6 +1,6 @@
 ﻿@model IEnumerable<garbage_collection.Models.CollectionModel>
 
-<h2>Collections</h2>
+<h1>Colectari</h1>
 
 <table>
     <thead>
@@ -11,12 +11,12 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (var item in Model)
+        @foreach (var collection in Model)
         {
                 <tr>
-                    <td>@item.Id</td>
-                    <td>@item.Bin_id</td>
-                    <td>@item.Collection_time</td>
+                    <td>@collection.Id</td>
+                    <td>@collection.Bin_id</td>
+                    <td>@collection.Collection_time</td>
                 </tr>
         }
     </tbody>
