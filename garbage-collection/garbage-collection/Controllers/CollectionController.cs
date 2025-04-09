@@ -17,8 +17,26 @@ namespace garbage_collection.Controllers
         // GET: /Collection/
         public IActionResult Index()
         {
-            var collections = _context.CollectionModels.ToList();
-            return View(collections);
+            return View(); //return la file-UL cu numele metodei (ex: "Index.cshtml") din folderul Collections
         }
+
+        public IActionResult TabelColectari()
+        {
+            var data = _context.collections.ToList();
+            return View(data);
+        }
+
+        [HttpPost("api/collection/add")]
+        public IActionResult Add([FromBody] CollectionModel collection)
+        {
+            if (collection == null)
+                return BadRequest("Invalid data.");
+
+            _context.collections.Add(collection);
+            _context.SaveChanges();
+
+            return Ok(new { message = "Collection added successfully", collection });
+        }
+
     }
 }
