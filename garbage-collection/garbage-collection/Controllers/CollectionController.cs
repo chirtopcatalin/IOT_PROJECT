@@ -22,7 +22,7 @@ namespace garbage_collection.Controllers
 
         public IActionResult TabelColectari()
         {
-            var data = _context.collections.ToList();
+            var data = _context.Collections.ToList();
             return View(data);
         }
 
@@ -32,7 +32,7 @@ namespace garbage_collection.Controllers
             if (collection == null)
                 return BadRequest("Invalid data.");
 
-            _context.collections.Add(collection);
+            _context.Collections.Add(collection);
             _context.SaveChanges();
 
             return Ok(new { message = "Collection added successfully", collection });

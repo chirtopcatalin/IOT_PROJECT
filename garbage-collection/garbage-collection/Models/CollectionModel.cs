@@ -1,5 +1,8 @@
-﻿namespace garbage_collection.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace garbage_collection.Models
 {
+    [Table("collections")]
     public class CollectionModel
     {
         public int Id { get; set; }
