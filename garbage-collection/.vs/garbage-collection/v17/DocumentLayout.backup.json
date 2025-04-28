@@ -3,60 +3,116 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\views\\admin\\citizencollectionsresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\views\\admin\\citizencollectionsresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\views\\admin\\addbin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\views\\admin\\addbin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\views\\admin\\citizens.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\views\\admin\\citizens.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\models\\citizenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\models\\citizenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\models\\collectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\models\\collectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\models\\binmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\models\\binmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\controllers\\collectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\controllers\\collectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\views\\collection\\tabelcolectari.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\views\\collection\\tabelcolectari.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\migrations\\20250312184555_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\migrations\\20250312184555_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\migrations\\20250319153111_updatecollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\migrations\\20250319153111_updatecollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\views\\collection\\tabelcolectari.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\views\\collection\\tabelcolectari.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\migrations\\20250409163316_addcitizentable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\migrations\\20250409163316_addcitizentable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\migrations\\20250428121211_addbintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\migrations\\20250428121211_addbintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\migrations\\20250428125102_addlocationtobin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\migrations\\20250428125102_addlocationtobin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\migrations\\20250319153111_updatecollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\migrations\\20250319153111_updatecollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\migrations\\20250312184555_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\migrations\\20250312184555_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|solutionrelative:garbage-collection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE935894-ABEF-4EE8-BE6A-8A0631C58702}|garbage-collection\\garbage-collection.csproj|c:\\users\\user\\desktop\\florea\\repository_proiect\\iot_project\\garbage-collection\\garbage-collection\\garbage-collection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -70,11 +126,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 177,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CitizenModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Models\\CitizenModel.cs",
+              "RelativeDocumentMoniker": "garbage-collection\\Models\\CitizenModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Models\\CitizenModel.cs",
+              "RelativeToolTip": "garbage-collection\\Models\\CitizenModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:56:45.65Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -86,102 +152,335 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:1613945590:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1899573887:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TabelColectari.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Collection\\TabelColectari.cshtml",
-              "RelativeDocumentMoniker": "garbage-collection\\Views\\Collection\\TabelColectari.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Collection\\TabelColectari.cshtml",
-              "RelativeToolTip": "garbage-collection\\Views\\Collection\\TabelColectari.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CitizenCollectionsResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Admin\\CitizenCollectionsResult.cshtml",
+              "RelativeDocumentMoniker": "garbage-collection\\Views\\Admin\\CitizenCollectionsResult.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Admin\\CitizenCollectionsResult.cshtml",
+              "RelativeToolTip": "garbage-collection\\Views\\Admin\\CitizenCollectionsResult.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-12T18:09:15.367Z",
+              "WhenOpened": "2025-04-28T15:25:13.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "BinModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Models\\BinModel.cs",
+              "RelativeDocumentMoniker": "garbage-collection\\Models\\BinModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Models\\BinModel.cs",
+              "RelativeToolTip": "garbage-collection\\Models\\BinModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:02:18.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CollectionModel.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Models\\CollectionModel.cs",
               "RelativeDocumentMoniker": "garbage-collection\\Models\\CollectionModel.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Models\\CollectionModel.cs",
               "RelativeToolTip": "garbage-collection\\Models\\CollectionModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T18:04:40.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "garbage-collection\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Data\\AppDbContext.cs",
               "RelativeToolTip": "garbage-collection\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T17:57:26.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250319153111_UpdateCollections.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Migrations\\20250319153111_UpdateCollections.cs",
-              "RelativeDocumentMoniker": "garbage-collection\\Migrations\\20250319153111_UpdateCollections.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Migrations\\20250319153111_UpdateCollections.cs",
-              "RelativeToolTip": "garbage-collection\\Migrations\\20250319153111_UpdateCollections.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "garbage-collection\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "garbage-collection\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAIwGAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:31:11.592Z",
+              "WhenOpened": "2025-04-28T11:00:05.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:591219326:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Citizens.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Admin\\Citizens.cshtml",
+              "RelativeDocumentMoniker": "garbage-collection\\Views\\Admin\\Citizens.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Admin\\Citizens.cshtml",
+              "RelativeToolTip": "garbage-collection\\Views\\Admin\\Citizens.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T11:35:27.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "garbage-collection\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "garbage-collection\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T15:31:18.875Z",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "garbage-collection\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "garbage-collection\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T11:09:55.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "AddBin.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Admin\\AddBin.cshtml",
+              "RelativeDocumentMoniker": "garbage-collection\\Views\\Admin\\AddBin.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Admin\\AddBin.cshtml",
+              "RelativeToolTip": "garbage-collection\\Views\\Admin\\AddBin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T13:05:44.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CollectionController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Controllers\\CollectionController.cs",
               "RelativeDocumentMoniker": "garbage-collection\\Controllers\\CollectionController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Controllers\\CollectionController.cs",
               "RelativeToolTip": "garbage-collection\\Controllers\\CollectionController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCUAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAApwCIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T18:10:32.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "garbage-collection\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "garbage-collection\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:03:12.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "garbage-collection\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "garbage-collection\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T11:10:37.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "garbage-collection\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "garbage-collection\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:31:18.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TabelColectari.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Collection\\TabelColectari.cshtml",
+              "RelativeDocumentMoniker": "garbage-collection\\Views\\Collection\\TabelColectari.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Collection\\TabelColectari.cshtml",
+              "RelativeToolTip": "garbage-collection\\Views\\Collection\\TabelColectari.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T18:09:15.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "garbage-collection\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "garbage-collection\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T18:15:15.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "garbage-collection\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "garbage-collection\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T18:09:31.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Program.cs",
+              "RelativeDocumentMoniker": "garbage-collection\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Program.cs",
+              "RelativeToolTip": "garbage-collection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:57:53.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250409163316_AddCitizenTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Migrations\\20250409163316_AddCitizenTable.cs",
+              "RelativeDocumentMoniker": "garbage-collection\\Migrations\\20250409163316_AddCitizenTable.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Migrations\\20250409163316_AddCitizenTable.cs",
+              "RelativeToolTip": "garbage-collection\\Migrations\\20250409163316_AddCitizenTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:33:16.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250428121211_AddBinTable.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Migrations\\20250428121211_AddBinTable.cs",
+              "RelativeDocumentMoniker": "garbage-collection\\Migrations\\20250428121211_AddBinTable.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Migrations\\20250428121211_AddBinTable.cs",
+              "RelativeToolTip": "garbage-collection\\Migrations\\20250428121211_AddBinTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:12:12.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250428125102_AddLocationToBin.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Migrations\\20250428125102_AddLocationToBin.cs",
+              "RelativeDocumentMoniker": "garbage-collection\\Migrations\\20250428125102_AddLocationToBin.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Migrations\\20250428125102_AddLocationToBin.cs",
+              "RelativeToolTip": "garbage-collection\\Migrations\\20250428125102_AddLocationToBin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:51:02.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "garbage-collection\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Controllers\\HomeController.cs",
               "RelativeToolTip": "garbage-collection\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T18:10:03.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "garbage-collection\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "garbage-collection\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T11:11:20.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "garbage-collection\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "garbage-collection\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T10:48:48.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "garbage-collection\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "garbage-collection\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T10:48:47.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250319153111_UpdateCollections.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Migrations\\20250319153111_UpdateCollections.cs",
+              "RelativeDocumentMoniker": "garbage-collection\\Migrations\\20250319153111_UpdateCollections.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Migrations\\20250319153111_UpdateCollections.cs",
+              "RelativeToolTip": "garbage-collection\\Migrations\\20250319153111_UpdateCollections.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:31:11.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "20250312184555_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Migrations\\20250312184555_InitialCreate.cs",
               "RelativeDocumentMoniker": "garbage-collection\\Migrations\\20250312184555_InitialCreate.cs",
@@ -194,19 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Program.cs",
-              "RelativeDocumentMoniker": "garbage-collection\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Program.cs",
-              "RelativeToolTip": "garbage-collection\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T17:57:53.16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\appsettings.Development.json",
               "RelativeDocumentMoniker": "garbage-collection\\appsettings.Development.json",
@@ -218,31 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "garbage-collection\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "garbage-collection\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-12T18:09:31.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "garbage-collection\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "garbage-collection\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-12T18:15:15.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 27,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\appsettings.json",
               "RelativeDocumentMoniker": "garbage-collection\\appsettings.json",
@@ -254,19 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "garbage-collection\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "garbage-collection\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T18:03:12.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 28,
               "Title": "garbage-collection.csproj",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\florea\\repository_proiect\\IOT_PROJECT\\garbage-collection\\garbage-collection\\garbage-collection.csproj",
               "RelativeDocumentMoniker": "garbage-collection\\garbage-collection.csproj",

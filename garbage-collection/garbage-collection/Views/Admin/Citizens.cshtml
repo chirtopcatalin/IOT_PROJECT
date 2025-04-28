@@ -1,0 +1,31 @@
+﻿@model IEnumerable<garbage_collection.Models.CitizenModel>
+
+@{
+    ViewData["Title"] = "All Citizens";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nume</th>
+            <th>Prenume</th>
+            <th>Email</th>
+            <th>CNP</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var c in Model)
+        {
+            <tr>
+                <td>@c.Id</td>
+                <td>@c.Nume</td>
+                <td>@c.Prenume</td>
+                <td>@c.Email</td>
+                <td>@c.CNP</td>
+            </tr>
+        }
+    </tbody>
+</table>

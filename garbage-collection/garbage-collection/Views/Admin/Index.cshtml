@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<h1>Admin Dashboard</h1>
+
+<p>Welcome, admin! What would you like to do?</p>
+
+<ul>
+    <li><a asp-action="Create">Add New Citizen</a></li>
+    <li><a asp-action="AddBin">Add New Bin</a></li>
+</ul>
+
+    <div class="card-body">
+    <form asp-action="CitizenCollections" method="post" class="form-inline">
+        <div class="text-danger" asp-validation-summary="All"></div>
+
+        <div class="form-group mb-2 mr-2">
+            <label for="citizenId" class="control-label mr-2">View collection for Citizen ID:</label>
+            <input type="number" id="citizenId" name="citizenId" class="form-control form-control-sm" style="width: 120px;" required />
+        </div>
+
+        <div class="form-group mb-2">
+            <button type="submit" class="btn btn-primary btn-sm">View Collections</button>
+        </div>
+    </form>
+</div>

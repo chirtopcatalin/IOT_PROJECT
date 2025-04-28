@@ -30,9 +30,9 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
 
-app.MapControllerRoute(
-    name: "Collections", // name nu conteaza la routing
-    pattern: "{controller=Collection}/{action=Index}");
-// index = default method inside controller (CollectionsController.cs)
+//app.MapControllerRoute(
+//    name: "Collections", // name nu conteaza la routing
+//    pattern: "{controller=Collection}/{action=Index}");
+//// index = default method inside controller (CollectionsController.cs)
 
 app.Run();
