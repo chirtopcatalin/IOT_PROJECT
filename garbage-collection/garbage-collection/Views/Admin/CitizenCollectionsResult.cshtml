@@ -1,0 +1,95 @@
+﻿@{
+    ViewData["Title"] = "Citizen Collections Results";
+    var citizen = ViewBag.Citizen as garbage_collection.Models.CitizenModel;
+    var bins = ViewBag.Bins as List<garbage_collection.Models.BinModel>;
+    var collections = ViewBag.Collections as List<garbage_collection.Models.CollectionModel>;
+}
+
+<div class="container">
+    <h1>Collections for @citizen.Nume @citizen.Prenume</h1>
+
+    <div class="card mb-4">
+        <div class="card-header">
+            <h2>Citizen Information</h2>
+        </div>
+        <div class="card-body">
+            <p><strong>ID:</strong> @citizen.Id</p>
+            <p><strong>Name:</strong> @citizen.Nume @citizen.Prenume</p>
+            <p><strong>Email:</strong> @citizen.Email</p>
+            <p><strong>CNP:</strong> @citizen.CNP</p>
+        </div>
+    </div>
+
+    <div class="card mb-4">
+        <div class="card-header">
+            <h2>Bins (@bins.Count)</h2>
+        </div>
+        <div class="card-body">
+            @if (bins.Any())
+            {
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Bin ID</th>
+                                <th>Location</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        @foreach (var bin in bins)
+                        {
+                                    <tr>
+                                        <td>@bin.Id</td>
+                                        <td>@bin.Location</td>
+                                    </tr>
+                        }
+                        </tbody>
+                    </table>
+            }
+            else
+            {
+                    <p>No bins registered for this citizen.</p>
+            }
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card-header">
+            <h2>Collection History (@collections.Count)</h2>
+        </div>
+        <div class="card-body">
+            @if (collections.Any())
+            {
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Collection ID</th>
+                                <th>Bin ID</th>
+                                <th>Bin Location</th>
+                                <th>Collection Time</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        @foreach (var collection in collections)
+                        {
+                            var bin = bins.FirstOrDefault(b => b.Id == collection.Bin_id);
+                                    <tr>
+                                        <td>@collection.Id</td>
+                                        <td>@collection.Bin_id</td>
+                                        <td>@(bin?.Location ?? "Unknown")</td>
+                                        <td>@collection.Collection_time.ToString("yyyy-MM-dd HH:mm")</td>
+                                    </tr>
+                        }
+                        </tbody>
+                    </table>
+            }
+            else
+            {
+                    <p>No collection history for this citizen.</p>
+            }
+        </div>
+    </div>
+
+    <div class="mt-4">
+        <a asp-action="Index" class="btn btn-primary">Back to Admin Panel</a>
+    </div>
+</div>
