@@ -80,7 +80,7 @@ namespace garbage_collection.Controllers
             return View(bin);
         }
 
-        // GET: Admin/CitizenCollections - Form to enter citizen ID
+        // GET: Admin/CitizenCollections
         [HttpGet]
         public IActionResult CitizenCollections()
         {
@@ -113,5 +113,30 @@ namespace garbage_collection.Controllers
 
             return View("CitizenCollectionsResult");
         }
+
+        public IActionResult AddItems()
+        {
+            return View("Index");
+        }
+        public async Task<IActionResult> DisplayPointsOnMap()
+        {
+            var collections = await _context.Collections2
+                .Where(c => c.NrMasina == "SB 42 ULB")
+                .ToListAsync();
+
+            var collectionPoints = collections.Select(c => new CollectionPointModel
+            {
+                Latitude = c.Latitude,
+                Longitude = c.Longitude,
+                Adresa = c.Adresa
+            }).ToList();
+
+            Console.WriteLine("Collection Points: " + string.Join(", ", collectionPoints.Select(p => p.Adresa)));
+
+            return View(collectionPoints);
+        }
+
+
+
     }
 }
