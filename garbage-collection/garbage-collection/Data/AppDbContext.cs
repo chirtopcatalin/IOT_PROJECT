@@ -9,6 +9,8 @@ namespace garbage_collection.Data
         public DbSet<CitizenModel> Citizens { get; set; }
         public DbSet<BinModel> Bins { get; set; }
 
+        public DbSet<Collection2Model> Collections2 { get; set; }
+
         public AppDbContext(DbContextOptions<AppDbContext> options)
             : base(options)
         { }
